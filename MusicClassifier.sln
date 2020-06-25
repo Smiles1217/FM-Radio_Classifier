@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Music Classifier", "Music Classifier\Music Classifier.pyproj", "{444C522D-7064-4CDA-8662-080252173402}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Radio Listener", "Radio Listener\Radio Listener.pyproj", "{E0A95008-AD4E-4F74-B3DF-51972C54250D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "User Interface", "User Interface\User Interface.pyproj", "{53FFEB56-B46B-45A2-8BFE-03910E77D3A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444C522D-7064-4CDA-8662-080252173402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444C522D-7064-4CDA-8662-080252173402}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{444C522D-7064-4CDA-8662-080252173402}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{444C522D-7064-4CDA-8662-080252173402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444C522D-7064-4CDA-8662-080252173402}.Release|x64.ActiveCfg = Release|Any CPU
+		{444C522D-7064-4CDA-8662-080252173402}.Release|x86.ActiveCfg = Release|Any CPU
+		{E0A95008-AD4E-4F74-B3DF-51972C54250D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A95008-AD4E-4F74-B3DF-51972C54250D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E0A95008-AD4E-4F74-B3DF-51972C54250D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E0A95008-AD4E-4F74-B3DF-51972C54250D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A95008-AD4E-4F74-B3DF-51972C54250D}.Release|x64.ActiveCfg = Release|Any CPU
+		{E0A95008-AD4E-4F74-B3DF-51972C54250D}.Release|x86.ActiveCfg = Release|Any CPU
+		{53FFEB56-B46B-45A2-8BFE-03910E77D3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FFEB56-B46B-45A2-8BFE-03910E77D3A4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{53FFEB56-B46B-45A2-8BFE-03910E77D3A4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{53FFEB56-B46B-45A2-8BFE-03910E77D3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FFEB56-B46B-45A2-8BFE-03910E77D3A4}.Release|x64.ActiveCfg = Release|Any CPU
+		{53FFEB56-B46B-45A2-8BFE-03910E77D3A4}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
