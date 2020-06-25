@@ -1,8 +1,8 @@
 # FM-Radio_Classifier
 This is a re-upload of the 2019-2020 Senior Design Capstone project completed by Sam Miles, Breanna Bonsall, Ben Rahman, Zach Litkenhaus, and Brandon Ramsey.
+*This project was also completed under the sponsorship and in collaboration with NSWC Crane Naval Base.
 
 **NOTE: I WAS NOT THE SOLE DEVELOPER ON THIS PROJECT, THIS WAS A TEAM EFFORT.**
-This project was also completed under the sponsorship and in collaboration with NSWC Crane Naval Base.
 
 The goal for this project was to classify FM radio signals into their respective musical genres using machine learning in nearly real time.
 
