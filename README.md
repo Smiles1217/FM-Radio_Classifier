@@ -1,6 +1,6 @@
 # FM-Radio_Classifier
 This is a re-upload of the 2019-2020 Senior Design Capstone project completed by Sam Miles, Breanna Bonsall, Ben Rahman, Zach Litkenhaus, and Brandon Ramsey.
-*This project was also completed under the sponsorship and in collaboration with NSWC Crane Naval Base.
+*This project was also completed under the sponsorship and in collaboration with NSWC Crane Naval Base.*
 
 **NOTE: I WAS NOT THE SOLE DEVELOPER ON THIS PROJECT, THIS WAS A TEAM EFFORT.**
 
@@ -12,4 +12,4 @@ https://www.amazon.com/gp/product/B011HVUEME/ref=ppx_yo_dt_b_search_asin_title?i
 The FMA Small Dataset was used for network training and testing:
 https://github.com/mdeff/fma
 
-*The dataset and respective metadata are required and can be downloaded SEPERATELY from the link above.
+*The dataset and respective metadata are required and can be downloaded SEPERATELY from the link above.*
